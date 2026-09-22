@@ -1,0 +1,40 @@
+# Build trees
+build/
+build-*/
+out/
+cmake-build-*/
+install/
+_deps/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.user
+*.suo
+.vs/
+
+# Compiled objects and binaries
+*.obj
+*.o
+*.a
+*.lib
+*.exe
+*.pdb
+*.ilk
+*.dll
+*.so
+*.dylib
+
+# Local validation trees and logs
+validation/
+*.ndo
+
+# Test / runtime debris
+Testing/
+*.log
+*.log.*
+*.tmp
+*.quarantine
+*_scratch/
+.cache/
+compile_commands.json
