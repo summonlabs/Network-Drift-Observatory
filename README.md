@@ -1,6 +1,6 @@
 # Network Drift Observatory
 
-A standalone, vendor-neutral Fabric OS runtime that detects and explains drift
+A standalone, vendor-neutral runtime that detects and explains drift
 between intended authoritative state and actual observed state.
 
 **Network Drift Observatory is observational and analytical.** It ingests
